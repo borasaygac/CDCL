@@ -1,6 +1,6 @@
 <div style="text-align: justify;">
 
-# Group_K_Project_3
+# CDCL SAT Solver
 
 This project implements the CDCL algorithm enhanced with Variable State Independent Decaying Sum (VSIDS) and Non-increasing Variable Elimination Resolution (NiVER). Furthermore, restarts and phase saving as well as clause deletion have been implemented and experimented with.
 
